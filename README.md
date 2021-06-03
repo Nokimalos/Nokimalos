@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nokimalos
+- 👋 Hi, I’m @Nokimalos (Kaan Bouldoires)
 - 👀 I’m interested in everything about technologies.
 - 🌱 I’m currently learning C @ Epitech Paris
 - 📫 How to reach me : bouldoires.kaan@gmail.com
