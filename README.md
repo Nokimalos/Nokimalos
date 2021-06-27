@@ -1,1 +1,1 @@
-![ Alt text](noki.gif) / ! [](noki.gif)
+![ Alt text](noki.gif) [](noki.gif)
