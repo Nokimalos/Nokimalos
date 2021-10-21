@@ -2,8 +2,6 @@
 
 ![ Alt text](movie.gif) [](movie.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Languages and Tools:
 <p>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -14,6 +12,8 @@
 </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me:
 [![Mail](https://img.shields.io/badge/Mail-bouldoires.kaan@gmail.com-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:bouldoires.kaan@gmail.com)
