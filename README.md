@@ -10,7 +10,7 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-3498db?style=flat-square&logo=python&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" /> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 
 ### Contact me:
