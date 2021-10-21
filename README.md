@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaan Bouldoires (aka Noki) </h1>
+<h1 align="center">Hi 👋, I'm Kaan Bouldoires </h1>
 
 ![ Alt text](movie.gif) [](movie.gif)
 
