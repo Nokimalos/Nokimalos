@@ -1,4 +1,4 @@
-![ Alt text](movie.gif) [](movie.gif)
+Hi ! I'm Kaan Bouldoires (Noki) ![ Alt text](movie.gif) [](movie.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p>
