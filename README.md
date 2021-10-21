@@ -8,7 +8,8 @@
 <p>
 <img alt="C" src="https://img.shields.io/badge/-C-7f8c8d?style=flat-square&logo=c&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3498db?style=flat-square&logo=python&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" /> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img 
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 </p>
 
 ### Contact me:
