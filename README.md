@@ -9,5 +9,5 @@
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
 </p>
 
-### Contact me
+### Contact me:
 [![Mail](https://img.shields.io/badge/Mail-bouldoires.kaan@gmail.com-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:bouldoires.kaan@gmail.com)
