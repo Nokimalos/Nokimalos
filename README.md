@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Project+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
-![ Alt text](movie.gif) [](movie.gif)
+<p align="center">
+  ![ Alt text](movie.gif) [](movie.gif)
+</p>
 
 ---
 
@@ -46,9 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nokimalos&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nokimalos&theme=radical)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ---
 
