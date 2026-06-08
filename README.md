@@ -13,7 +13,7 @@
 
 ## 🤖 About Me
 
-**Applied AI Engineer @ Steamulo** — I design and ship LLM-powered systems end to end, from on-premise model serving to conversational agents in production.
+**Applied AI Engineer** — I design and ship LLM-powered systems end to end, from on-premise model serving to conversational agents in production.
 
 - 🧠 I build **RAG architectures** and **conversational agents** (query-first design, tool calling, dynamic context management)
 - 🎙️ I industrialized a **Speech-to-Text pipeline at scale** — 5000+ calls/day with Whisper / Parakeet + speaker diarization (Pyannote)
