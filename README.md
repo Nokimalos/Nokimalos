@@ -73,17 +73,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nokimalos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimalos&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nokimalos&theme=radical&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center"><i>⭐️ Building AI systems that ship. Always open to collaboration on LLM, RAG & MLOps projects.</i></p>
