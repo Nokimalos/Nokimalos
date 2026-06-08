@@ -11,19 +11,19 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 **Applied AI Engineer** — I design and ship LLM-powered systems end to end, from on-premise model serving to conversational agents in production.
 
-- 🧠 I build **RAG architectures** and **conversational agents** (query-first design, tool calling, dynamic context management)
-- 🎙️ I industrialized a **Speech-to-Text pipeline at scale** — 5000+ calls/day with Whisper / Parakeet + speaker diarization (Pyannote)
-- 🚀 I deploy **open-source LLMs on-premise** (vLLM, Ollama, HuggingFace) with advanced benchmarking (latency, throughput, VRAM)
-- ⚙️ I run the full **MLOps stack** — Docker, Kubernetes, GitLab CI/CD, Grafana monitoring
-- 🌍 International client work: technical scoping, architecture workshops, multi-team coordination
+- I build **RAG architectures** and **conversational agents** (query-first design, tool calling, dynamic context management)
+- I industrialized a **Speech-to-Text pipeline at scale** within 5000+ calls/day with Whisper / Parakeet + speaker diarization (Pyannote)
+- I deploy **open-source LLMs on-premise** (vLLM, Ollama, HuggingFace) with advanced benchmarking (latency, throughput, VRAM)
+- I run the full **MLOps stack** : Docker, Kubernetes, GitLab CI/CD, Grafana monitoring
+- International client work: technical scoping, architecture workshops, multi-team coordination
 
 ---
 
-## 🧠 AI / ML Stack
+## AI / ML Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM_Serving-vLLM-FF6F00?style=for-the-badge" alt="vLLM"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏗️ Architecture & Fullstack
+## Architecture & Fullstack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
