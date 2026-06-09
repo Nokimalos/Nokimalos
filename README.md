@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan Bouldoires</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer+%F0%9F%A4%96;LLM+%26+RAG+Architect;Speech-to-Text+%26+MLOps;Turning+models+into+production+systems" alt="Typing SVG">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kaan-bouldoires-465880182/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bouldoires.kaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
